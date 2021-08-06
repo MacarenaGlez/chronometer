@@ -1,3 +1,4 @@
+/*revisar a fondo js, mejorar*/
 "use strict";
 
 let hours = "00";
@@ -56,5 +57,3 @@ function resetCrono(event) {
 
 const btnReset = document.querySelector(".reset");
 btnReset.addEventListener("click", resetCrono);
-
-/*revisar a fondo js*/
