@@ -56,3 +56,5 @@ function resetCrono(event) {
 
 const btnReset = document.querySelector(".reset");
 btnReset.addEventListener("click", resetCrono);
+
+/*revisar a fondo js*/
